@@ -60,3 +60,7 @@ ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.59.160:443#SS%20VPN4Zero%20005
 vless://c3024a15-0cd5-461a-d99c-14c64efea3f8@216.9.227.236:8443?mode=gun&security=reality&encryption=none&pbk=d_PryPoPxwX_0FUh7Eulm7Fzf73MeoTHRHvxK-pWaBI&fp=chrome&type=grpc&serviceName=TelegramID:@iranbaxvpn&sni=greenpepper.ir&sid=9825#T.me%2FVPN4Zero+VLESS+0060
 
 vless://356a5242-ce28-44cb-84a1-6f136d918d71@172.233.56.182:35438?mode=gun&security=none&encryption=none&type=grpc&serviceName=#T.me%2FVPN4Zero
+
+vmess://eyJhZGQiOiJjZG5qcy5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoic2FmYXJpIiwiaG9zdCI6Ikxvc0FuZ2VsZXMua290aWNrLnNpdGUiLCJpZCI6IjJGMDk0ODQ1LUUyQkQtRUJGNy1ERUI3LTk5NTk5MjQzNkZBRiIsIm5ldCI6IndzIiwicGF0aCI6Ii9zcGVlZHRlc3QiLCJwb3J0IjoiNDQzIiwicHMiOiI0WmVybyBWUE4iLCJzY3kiOiJhdXRvIiwic25pIjoiTG9zQW5nZWxlcy5rb3RpY2suc2l0ZSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+
+vless://DamonConfig-1@damonconfig.king-web.site:2087?mode=multi&security=tls&encryption=none&alpn=h2&type=grpc&serviceName=@DamonConfig@DamonConfig@DamonConfig@DamonConfig@DamonConfig@DamonConfig&sni=damonconfig-1.king-web.site#4Zero+VPN
