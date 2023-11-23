@@ -64,3 +64,9 @@ vless://356a5242-ce28-44cb-84a1-6f136d918d71@172.233.56.182:35438?mode=gun&secur
 vmess://eyJhZGQiOiJjZG5qcy5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoic2FmYXJpIiwiaG9zdCI6Ikxvc0FuZ2VsZXMua290aWNrLnNpdGUiLCJpZCI6IjJGMDk0ODQ1LUUyQkQtRUJGNy1ERUI3LTk5NTk5MjQzNkZBRiIsIm5ldCI6IndzIiwicGF0aCI6Ii9zcGVlZHRlc3QiLCJwb3J0IjoiNDQzIiwicHMiOiI0WmVybyBWUE4iLCJzY3kiOiJhdXRvIiwic25pIjoiTG9zQW5nZWxlcy5rb3RpY2suc2l0ZSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
 vless://DamonConfig-1@damonconfig.king-web.site:2087?mode=multi&security=tls&encryption=none&alpn=h2&type=grpc&serviceName=@DamonConfig@DamonConfig@DamonConfig@DamonConfig@DamonConfig@DamonConfig&sni=damonconfig-1.king-web.site#4Zero+VPN
+
+
+vless://3b0c18be-4758-45e4-b16a-0b04ec8383dd@captcha.mitowear.com:443?path=Telegram%3A%40EXPRESERT%2FS6%2F%3Fed%3D2048&security=tls&encryption=none&host=expreset-bcd759e084a7.raymonqandi.ir&fp=chrome&type=ws&sni=expreset-bcd759e084a7.raymonqandi.ir#VLESS+4Zero+VPN
+
+vless://DamonConfig-1@damonconfig.king-web.site:2087?mode=multi&security=tls&encryption=none&alpn=h2&type=grpc&serviceName=@DamonConfig@DamonConfig@DamonConfig@DamonConfig@DamonConfig@DamonConfig&sni=damonconfig-1.king-web.site#Telegram+T.me%2FVPN4Zero
+
