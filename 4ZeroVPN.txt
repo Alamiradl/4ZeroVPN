@@ -68,3 +68,7 @@ vless://b801f3b0-7148-40b3-c3d3-d5c8040e328e@server-150-user-germany-loopertak.b
 
 vless://992c0bf7-9c4b-4b9d-dde4-e58fc2662473@server-150-user-germany-messi.botvreexy.top:10195?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#Telegram+%F0%9F%86%94VPN4Zero+02
 
+trojan://RgkL9UD4Uv2XjQqAhm35Ug@metrix.anvary.ir:2083/?type=grpc&security=tls&sni=De-Bot.Parsashonam.Tech#Telegram%20%F0%9F%86%94%20VPN4Zero%2003
+trojan://RgkL9UD4Uv2XjQqAhm35Ug@zula.ir:2083/?type=grpc&security=tls&sni=De-Bot.Parsashonam.Tech#Telegram%20%F0%9F%86%94%20VPN4Zero%2001
+trojan://KJe4OhPgdM89hNWuDBaSrA@zula.ir:2083/?type=grpc&security=tls&sni=De-Bot.Parsashonam.Tech#Telegram%20%F0%9F%86%94%20VPN4Zero%2002
+trojan://KJe4OhPgdM89hNWuDBaSrA@metrix.anvary.ir:2083/?type=grpc&security=tls&sni=De-Bot.Parsashonam.Tech#Telegram%20%F0%9F%86%94%20VPN4Zero%2004
