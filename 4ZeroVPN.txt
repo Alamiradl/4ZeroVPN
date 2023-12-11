@@ -132,3 +132,4 @@ vless://f553d0ca-701d-4f95-90e9-2851d055291e@16.16.75.165:8443/?type=tcp&encrypt
 vless://376b9861-2fc6-4647-959c-18185cd9c95a@ip.nofiltering2.sbs:443/?type=ws&encryption=none&host=lmn59.sbs&path=%2Ffflsws&security=tls&sni=lmn59.sbs#4ZeroVPN%E2%84%A2
 vless://c1e7bf85-286a-4451-8043-ac2c467a1780@190.93.247.155:443/?type=grpc&encryption=none&serviceName=%E2%80%8C%20%40VPNCUSTOMIZE%20%E2%80%8C&security=tls&sni=FreeV2rayng.VPNCUSTOMIZE.tech&alpn=h2&fp=chrome#4ZeroVPN%E2%84%A2
 vless://43f7f589-6ee9-42cc-b03e-24b08c467309@78.46.160.40:443/?type=grpc&encryption=none&serviceName=%40VPNwedbaz&sni=greenpepper.ir&fp=firefox&security=reality&pbk=E2mL4gNMBXhZRdOSkq8oU3XmN0SGE4jMK3ov85-SyFY&sid=1afa0fd6#4ZeroVPN%E2%84%A2
+vless://86d3d6fb-5337-4f3b-bb45-1f0d29f9c4fd@blogc.samnet.pw:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ee1.samnet.pw&fp=chrome&security=reality&pbk=IiuIighvDsor2v-vb5s3IJbNiqwLw568auiqoXxc7FM&sid=#4ZeroVPN%E2%84%A2
